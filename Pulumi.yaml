@@ -1,0 +1,6 @@
+name: aws-javascript
+description: A minimal AWS JavaScript Pulumi program
+runtime:
+    name: nodejs
+    options:
+        typescript: false
